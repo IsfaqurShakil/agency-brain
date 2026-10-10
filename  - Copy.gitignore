@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+index.json
+chat_memory.json
+documents/
